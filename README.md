@@ -48,17 +48,19 @@
 ---
 
 ### 📊 GitHub Stats:
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gandeepsprabhu&show_icons=true&theme=radical" alt="Gandeep's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=GandeepS&show_icons=true&theme=radical" alt="Gandeep's GitHub stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gandeepsprabhu&theme=radical" alt="Gandeep's Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GandeepS&theme=radical" alt="Gandeep's Streak Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gandeepsprabhu&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GandeepS&layout=compact&theme=radical" alt="Top Languages" />
 </p>
+
 
 ---
 
